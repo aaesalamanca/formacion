@@ -1,6 +1,6 @@
 # Android
 ## Índice
-1- [Cursos](#cursos)
+1. [Cursos](#cursos)
 ### Cursos
 1. [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
    1. Codelabs with suggested homework assignments: [Codelabs for Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
