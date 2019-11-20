@@ -10,5 +10,5 @@ Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, q
 ## Índice
 * Android
 * Bases de datos
-* Control de versiones
+* [Control de versiones](controlDeVersiones.md)
 * Programación
