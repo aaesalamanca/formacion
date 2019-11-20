@@ -7,10 +7,6 @@ Sigue el siguiente esquema:
 
 Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, que estarán organizadas alfabéticamente.
 
-También uso las etiquetas de las listas de tareas para indicar si ya he realizado el curso o no de la forma que sigue:
-- [x] https://guides.github.com/activities/hello-world/
-* [-]
-
 ## Índice
 * Android
 * Bases de datos
