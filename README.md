@@ -9,7 +9,7 @@ Sigue el siguiente esquema:
 Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, que estarán organizadas alfabéticamente.
 
 ## Índice
-* Android
+* [Android](#android.md)
 * Bases de datos
 * [Control de versiones](controlDeVersiones.md)
 * Java
