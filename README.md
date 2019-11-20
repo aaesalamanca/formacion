@@ -3,7 +3,7 @@ Este repositorio pretende ser una suerte de índice en el que alojar y organizar
 
 Sigue el siguiente esquema:
 * Cada temática se corresponde con un fichero `nombreDeTemática.md`.
-* Este fichero contiene los cursos, tutoriales, guías o documentación relativa a la temática.
+* El fichero `nombreDeTemática.md` contiene los cursos, tutoriales, guías o documentación relativa a la temática.
 * Dentro del fichero se ordenan según la misma secuencia que sigo a la hora de seguirlos.
 
 Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, que estarán organizadas alfabéticamente.
