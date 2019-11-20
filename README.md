@@ -1,2 +1,1 @@
-# formacion
-Cursos, tutoriales, guías, documentación de referencia... Enlazado a la fuente de referencia y organizado por temáticas.
+Este repositorio contiene los enlaces a 
