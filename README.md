@@ -7,8 +7,10 @@ Sigue el siguiente esquema:
 
 Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, que estarán organizadas alfabéticamente.
 
+También uso las etiquetas de las listas de tareas para indicar si ya 
+
 ## Índice
-* [Android]
+* Android
 * Bases de datos
 * Control de versiones
 * Programación
