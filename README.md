@@ -14,4 +14,4 @@ Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, q
 * [Control de versiones](controlDeVersiones.md)
 * Programación
 * Java
-* [Intelifencia Artificial](inteligenciaArtificial.md)
+* [Inteligencia Artificial](inteligenciaArtificial.md)
