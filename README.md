@@ -12,6 +12,6 @@ Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, q
 * [Android](android.md)
 * Bases de datos
 * [Control de versiones](controlDeVersiones.md)
-* Programación
-* Java
 * [Inteligencia Artificial](inteligenciaArtificial.md)
+* Java
+* Programación
