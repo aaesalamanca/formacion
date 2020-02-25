@@ -12,4 +12,4 @@
          * Es más fácil conseguir conjuntos de datos para entrenar, pues no hay que etiquetar la salida de cada entrada.
       3. _Aprendizaje reforzado_.
       
-      Entendemos los sistemas de inteligencia artificial como caja negra: no conocemos lo que ocurre en el interior del _agente_ inteligente, solo la interacción del sistema con el entorno, es decir, sabemos qué hace, pero no cómo lo hace.
+      Entendemos los sistemas de inteligencia artificial como _caja negra_: no conocemos lo que ocurre en el interior del _agente_ inteligente, solo la interacción del sistema con el entorno, es decir, sabemos qué hace, pero no cómo lo hace.
