@@ -19,8 +19,20 @@
       * IA débil: cumple un conjunto muy limitado de tareas.
       * IA Fuerte: son capaces de aplicarse a una gran variedad de problemas y dominios diferentes.
 
-   Otras divisiones propuestas dependen del campo de aplicación:
-      * Robótica: capacidad de moverse y adaptarse al entorno.
-      * _Natural Language Processing_: capacidad de entender el lenguaje.
-      * Voz: capacidad para convertir voz a texto o texto a voz.
-      * _Machine Learning_ o aprendizaje automático: rama de la Inteligencia Artificial que tiene por objetivo dotar a las máquinas de la capacidad de aprendizaje.
+      Otras divisiones propuestas dependen del campo de aplicación:
+        * Robótica: capacidad de moverse y adaptarse al entorno.
+        * _Natural Language Processing_: capacidad de entender el lenguaje.
+        * Voz: capacidad para convertir voz a texto o texto a voz.
+        * _Machine Learning_ o aprendizaje automático: rama de la Inteligencia Artificial que tiene por objetivo dotar a las máquinas de la capacidad de aprendizaje, que se entiende como la generalización del conocimiento a partir de un conjunto de experiencias. Aprendizaje que se divide en:
+          * Aprendizaje supervisado.
+          * Aprendizaje no supervisado.
+          * Aprendizaje reforzado.
+          
+          El ML se interrelaciona con el resto de disciplinas: alguien ha programado las capacidades del sistema o este mismo ha aprendido a realizarlas. IA y ML no son lo mismo. Dentro del ML hay diferentes técnicas aplicables a diferentes tipos de aplicaciones:
+          * Árboles de decisión.
+          * Modelos de regresión.
+          * Modelos de clasificación.
+          * Clusterización.
+          * Redes neuronales: aprenden de forma jerarquizada o por niveles; las primeras capas o niveles aprenden conceptos muy concretos y las posteriores aprovechan esto para aprender conceptos más abstractos.
+          
+            El aumento en el número de capas hasta niveles muy complejos recibe el nombre de _Deep Learning_.
