@@ -7,6 +7,8 @@
 2. [¿Qué es el Machine Learning?¿Y Deep Learning? Un mapa conceptual | DotCSV](https://youtu.be/KytW151dpqU)
 3. [Modelos para entender una realidad caótica | DotCSV](https://youtu.be/Sb8XVheowVQ)
 4. [Regresión Lineal y Mínimos Cuadrados Ordinarios | DotCSV](https://youtu.be/k964_uNn3l0)
+5. [IA NOTEBOOK #1 | Regresión Lineal y Mínimos Cuadrados Ordinarios | Programando IA](https://youtu.be/w2RJ1D6kz-o)
+
 #### Utils
 * [DeepMind](https://deepmind.com/)
 * [Clarifai](https://www.clarifai.com/)
