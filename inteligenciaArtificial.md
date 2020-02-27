@@ -10,3 +10,4 @@
 #### Utils
 * [DeepMind](https://deepmind.com/)
 * [Clarifai](https://www.clarifai.com/)
+* [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
