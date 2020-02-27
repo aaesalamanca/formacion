@@ -8,5 +8,5 @@
 3. [Modelos para entender una realidad caótica | DotCSV](https://youtu.be/Sb8XVheowVQ)
 4. [Regresión Lineal y Mínimos Cuadrados Ordinarios | DotCSV](https://youtu.be/k964_uNn3l0)
 #### Utils
-1. [DeepMind](https://deepmind.com/)
-2. [Clarifai](https://www.clarifai.com/)
+* [DeepMind](https://deepmind.com/)
+* [Clarifai](https://www.clarifai.com/)
