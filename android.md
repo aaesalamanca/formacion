@@ -1,7 +1,7 @@
 # Android
 ## Índice
 1. [Android Developer Fundamentals](#android-developer-fundamentals)
-2- [Utils](#utils)
+2. [Utils](#utils)
 #### [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
    1. [Codelabs for Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
    2. [Android Developer Fundamentals — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
