@@ -21,3 +21,4 @@
 * [Android utilities and troubleshooting](https://developer.android.com/courses/extras/utilities)
 * [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
 * [CodePath Android Cliffnotes](https://guides.codepath.com/android)
+* [Android Developers Blog](https://android-developers.googleblog.com/)
