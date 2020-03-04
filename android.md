@@ -20,3 +20,4 @@
 * [Multi-threading & callbacks primer](https://developer.android.com/courses/extras/multithreading)
 * [Android utilities and troubleshooting](https://developer.android.com/courses/extras/utilities)
 * [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
+* [CodePath Android Cliffnotes](https://guides.codepath.com/android)
