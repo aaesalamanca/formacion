@@ -1,7 +1,8 @@
 # Android
 ## Índice
 1. [Android Developer Fundamentals](#android-developer-fundamentals)
-2. [Utils](#utils)
+2. [Use ConstraintLayout to design your Android views](#use-constraintlayout-to-design-your-android-views)
+3. [Utils](#utils)
 #### [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
    * [Codelabs for Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
    * [Android Developer Fundamentals — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
@@ -12,6 +13,7 @@
       * [Release notes](https://docs.google.com/document/d/1pYtBo7w9aqihmnAm8h3XdS5qwFSK85qrzNFJdRo8mdU/view)
       * [Android Apps – Phone Calls and SMS](https://google-developer-training.github.io/android-developer-phone-sms-course/)
       * [Videos of lectures](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
+#### [Use ConstraintLayout to design your Android views](https://codelabs.developers.google.com/codelabs/constraint-layout/index.html?index=..%2F..index#0)
 #### Utils
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [SQL Primer](https://developer.android.com/courses/extras/sql-primer)
