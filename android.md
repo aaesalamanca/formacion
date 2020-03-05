@@ -24,5 +24,6 @@
 * [SQL Primer](https://developer.android.com/courses/extras/sql-primer)
 * [Multi-threading & callbacks primer](https://developer.android.com/courses/extras/multithreading)
 * [Android utilities and troubleshooting](https://developer.android.com/courses/extras/utilities)
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [CodePath Android Cliffnotes](https://guides.codepath.com/android)
