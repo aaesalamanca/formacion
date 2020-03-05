@@ -18,6 +18,8 @@
 * [Android Developers](https://developer.android.com/)
 * [Material Design](https://material.io)
 * [YouTube Android Developers](https://www.youtube.com/user/androiddevelopers)
+* [Android Blog](https://blog.google/products/android/)
+* [Google Play Blog](https://blog.google/products/google-play/)
 * [Android Developers Blog](https://android-developers.googleblog.com/)
 * [Android GitHub](https://github.com/android)
 * [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
