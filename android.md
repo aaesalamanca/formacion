@@ -15,10 +15,11 @@
       * [Videos of lectures](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
 #### [Use ConstraintLayout to design your Android views](https://codelabs.developers.google.com/codelabs/constraint-layout/index.html?index=..%2F..index#0)
 #### Utils
+* [Android Developers](https://developer.android.com/)
+* [Android Developers Blog](https://android-developers.googleblog.com/)
+* [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [SQL Primer](https://developer.android.com/courses/extras/sql-primer)
 * [Multi-threading & callbacks primer](https://developer.android.com/courses/extras/multithreading)
 * [Android utilities and troubleshooting](https://developer.android.com/courses/extras/utilities)
-* [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/)
 * [CodePath Android Cliffnotes](https://guides.codepath.com/android)
-* [Android Developers Blog](https://android-developers.googleblog.com/)
