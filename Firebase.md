@@ -1,6 +1,6 @@
 # [Firebase](https://firebase.google.com)
 ## Índice
-1. [Firebase Android Codelab - Build Friendly Chat](#firebase-android--codelab-build-friendly-chat)
+1. [Firebase Android Codelab - Build Friendly Chat](#firebase-android-codelab---build-friendly-chat)
 ### [Firebase Android Codelab - Build Friendly Chat](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
 ### Utils
 * [Firebase Console](https://console.firebase.google.com)
