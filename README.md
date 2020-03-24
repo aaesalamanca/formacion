@@ -9,11 +9,11 @@ Sigue el siguiente esquema:
 Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, que estarán organizadas alfabéticamente.
 
 ## Índice
-* [Android](android.md)
+* [Android](Android.md)
 * Bases de datos
-* [Control de versiones](controlDeVersiones.md)
+* [Control de versiones](GitHub.md)
 * [Firebase](firebase.md)
-* [Inteligencia Artificial](inteligenciaArtificial.md)
+* [Inteligencia Artificial](InteligenciaArtificial.md)
 * Java
 * Programación
-* [Utils](utils.md)
+* [Utils](Utils.md)
