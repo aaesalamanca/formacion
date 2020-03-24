@@ -7,7 +7,6 @@
 ### [Udacity Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 ### Utils
 * [Firebase Console](https://console.firebase.google.com)
-* [Firebase Authentication](https://firebase.google.com/products/auth)
-* [Get started with Firebase Android](https://firebase.google.com/docs/android/setup)
-* [Firebase Authentication Guides](https://firebase.google.com/docs/auth)
-* [Firebase Java-Android Reference](https://firebase.google.com/docs/reference/android/packages)
+* [Firebase Guides](https://firebase.google.com/docs/guides)
+* [Firebase Reference](https://firebase.google.com/docs/reference)
+* [Firebase Samples](https://firebase.google.com/docs/samples)
