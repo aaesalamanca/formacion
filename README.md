@@ -11,8 +11,8 @@ Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, q
 ## Índice
 * [Android](Android.md)
 * Bases de datos
-* [Control de versiones](GitHub.md)
-* [Firebase](firebase.md)
+* [Firebase](Firebase.md)
+* [GitHub](GitHub.md)
 * [Inteligencia Artificial](InteligenciaArtificial.md)
 * Java
 * Programación
