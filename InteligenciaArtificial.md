@@ -10,8 +10,8 @@
 5. [IA NOTEBOOK #1 | Regresión Lineal y Mínimos Cuadrados Ordinarios | Programando IA](https://youtu.be/w2RJ1D6kz-o)
 
 #### Utils
-* [DeepMind](https://deepmind.com/)
-* [Clarifai](https://www.clarifai.com/)
-* [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
+* [DeepMind](https://deepmind.com)
+* [Clarifai](https://www.clarifai.com)
+* [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist)
 * [COCO dataset](http://cocodataset.org/#home)
-* [ImageNet](http://www.image-net.org/)
+* [ImageNet](http://www.image-net.org)
