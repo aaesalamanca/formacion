@@ -1,7 +1,7 @@
 # [Firebase](https://firebase.google.com)
 ## Índice
 1. [Firebase Android Codelab - Build Friendly Chat](#firebase-android-codelab---build-friendly-chat)
-2. [Udacity Firebase in a Weekend: Android by Google](#udacity-firebase-in-a-weekend:-android-by-google)
+2. [Udacity Firebase in a Weekend: Android by Google](#udacity-firebase-in-a-weekend-android-by-google)
 ### [Firebase Android Codelab - Build Friendly Chat](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
 ### [Udacity Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 ### Utils
