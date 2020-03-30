@@ -1,6 +1,6 @@
 # Blender
 ## Índice
-1. [Aprende las bases de Blender 2.79 | Blendtuts](#aprende-las-bases-de-blender--blendtuts)
+1. [Aprende las bases de Blender 2.79 | Blendtuts](#aprende-las-bases-de-blender-279--blendtuts)
 2. [Curso de Introducción a Blender 2.80 | Blendtuts](#curso-de-introducción-a-blender-280--blendtuts)
 ### [Aprende las bases de Blender 2.79 | Blendtuts](https://cursos.blendtuts.es/intro-to-blender-access)
 ### [Curso de Introducción a Blender 2.80 | Blendtuts](https://cursos.blendtuts.es/intro280)
