@@ -13,7 +13,7 @@
       * [Release notes](https://docs.google.com/document/d/1pYtBo7w9aqihmnAm8h3XdS5qwFSK85qrzNFJdRo8mdU/view)
       * [Android Apps – Phone Calls and SMS](https://google-developer-training.github.io/android-developer-phone-sms-course)
       * [Videos of lectures](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
-#### [Use ConstraintLayout to design your Android views](https://codelabs.developers.google.com/codelabs/constraint-layout/index.html?index=..%2F..index#0)
+#### [Use ConstraintLayout to design your Android views](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
 #### Utils
 * [Android Developers](https://developer.android.com)
 * [Material Design](https://material.io)
