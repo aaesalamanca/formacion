@@ -1,5 +1,5 @@
-# [Android](https://www.android.com)
-- [x] [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
+### [Android](https://www.android.com)
+- [ ] [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
 - [ ] [Use ConstraintLayout to design your Android views](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
 ---
 #### Utils
