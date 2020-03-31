@@ -1,5 +1,6 @@
 ### [GitHub](https://github.com)
 - [x] [GitHub Learning Lab](https://youtu.be/9S0p8YMQzsM)
+- [ ] [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [ ] [GitHub Guides Hello World](https://guides.github.com/activities/hello-world)
 - [ ] [GitHub Guides Understanding the GitHub flow](https://guides.github.com/introduction/flow)
 ##### Utils
