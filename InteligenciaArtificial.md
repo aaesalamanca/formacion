@@ -1,13 +1,10 @@
-# Inteligencia Artificial
-## Índice
-1. [Dot CSV](#dot-csv)
-2. [Utils](#utils)
-#### [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
-1. [¿Qué es el Aprendizaje Supervisado y No Supervisado? | DotCSV](https://youtu.be/oT3arRRB2Cw)
-2. [¿Qué es el Machine Learning?¿Y Deep Learning? Un mapa conceptual | DotCSV](https://youtu.be/KytW151dpqU)
-3. [Modelos para entender una realidad caótica | DotCSV](https://youtu.be/Sb8XVheowVQ)
-4. [Regresión Lineal y Mínimos Cuadrados Ordinarios | DotCSV](https://youtu.be/k964_uNn3l0)
-5. [IA NOTEBOOK #1 | Regresión Lineal y Mínimos Cuadrados Ordinarios | Programando IA](https://youtu.be/w2RJ1D6kz-o)
+### Inteligencia Artificial
+- [ ] [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
+  - [ ] [¿Qué es el Aprendizaje Supervisado y No Supervisado? | DotCSV](https://youtu.be/oT3arRRB2Cw)
+  - [ ] [¿Qué es el Machine Learning?¿Y Deep Learning? Un mapa conceptual | DotCSV](https://youtu.be/KytW151dpqU)
+  - [ ] [Modelos para entender una realidad caótica | DotCSV](https://youtu.be/Sb8XVheowVQ)
+  - [ ] [Regresión Lineal y Mínimos Cuadrados Ordinarios | DotCSV](https://youtu.be/k964_uNn3l0)
+  - [ ] [IA NOTEBOOK #1 | Regresión Lineal y Mínimos Cuadrados Ordinarios | Programando IA](https://youtu.be/w2RJ1D6kz-o)
 
 #### Utils
 * [DeepMind](https://deepmind.com)
