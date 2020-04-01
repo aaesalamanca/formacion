@@ -7,4 +7,5 @@
 * [GitHub Learning Lab](https://lab.github.com)
 * [The GitHub Blog](https://github.blog)
 * [GitHub Community Forum](https://github.community)
+* [Try Github.io](https://try.github.io)
 * [Open Source Guides](https://opensource.guide)
