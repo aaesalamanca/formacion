@@ -12,7 +12,7 @@ Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, q
 * [Android](Android.md)
 * Bases de datos
 * [Firebase](Firebase.md)
-* [GitHub](GitHub.md)
+* [Git](Git.md)
 * [Inteligencia Artificial](InteligenciaArtificial.md)
 * Java
 * [Kotlin](Kotlin.md)
