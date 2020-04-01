@@ -1,7 +1,8 @@
-### [GitHub](https://github.com)
+### [Git](https://git-scm.com)
 - [x] [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [ ] [Git Handbook](https://guides.github.com/introduction/git-handbook)
 ##### Utils
+* [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
 * [YouTube GitHub Training & Guides](https://www.youtube.com/githubguides)
 * [GitHub Guides](https://guides.github.com)
