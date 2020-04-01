@@ -1,6 +1,9 @@
 ### [Git](https://git-scm.com)
+- [ ] [Hello World](https://guides.github.com/activities/hello-world)
 - [x] [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-- [ ] [Git Handbook](https://guides.github.com/introduction/git-handbook)
+- [x] [Git Handbook](https://guides.github.com/introduction/git-handbook)
+- [x] [Understanding the GitHub flow](https://guides.github.com/introduction/flow)
+- [ ] [Forking Projects](https://guides.github.com/activities/forking)
 ##### Utils
 * [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
