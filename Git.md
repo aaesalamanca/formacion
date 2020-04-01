@@ -1,6 +1,6 @@
 ### [GitHub](https://github.com)
 - [x] [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-- [ ] 
+- [ ] [Git Handbook](https://guides.github.com/introduction/git-handbook)
 ##### Utils
 * [GitHub Help](https://help.github.com/en)
 * [YouTube GitHub Training & Guides](https://www.youtube.com/githubguides)
