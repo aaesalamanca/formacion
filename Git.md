@@ -19,3 +19,4 @@
 * [Try Github.io](https://try.github.io)
 * [Open Source Guides](https://opensource.guide)
 * [gitignore.io](https://www.gitignore.io)
+* [github/gitignore](https://github.com/github/gitignore)
