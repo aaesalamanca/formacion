@@ -4,6 +4,7 @@
 - [x] [Git Handbook](https://guides.github.com/introduction/git-handbook)
 - [x] [Understanding the GitHub flow](https://guides.github.com/introduction/flow)
 - [x] [Forking Projects](https://guides.github.com/activities/forking)
+- [ ] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 ##### Utils
 * [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
