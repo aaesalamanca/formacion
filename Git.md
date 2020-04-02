@@ -3,7 +3,7 @@
 - [x] [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [x] [Git Handbook](https://guides.github.com/introduction/git-handbook)
 - [x] [Understanding the GitHub flow](https://guides.github.com/introduction/flow)
-- [ ] [Forking Projects](https://guides.github.com/activities/forking)
+- [x] [Forking Projects](https://guides.github.com/activities/forking)
 ##### Utils
 * [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
