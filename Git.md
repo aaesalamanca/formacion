@@ -7,7 +7,7 @@
 - [x] [Understanding the GitHub flow](https://guides.github.com/introduction/flow)
 - [x] [Forking Projects](https://guides.github.com/activities/forking)
 - [x] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
-- [ ] [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
+- [x] [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
 ##### Utils
 * [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
