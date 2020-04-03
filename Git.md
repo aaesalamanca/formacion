@@ -8,6 +8,9 @@
 - [x] [Forking Projects](https://guides.github.com/activities/forking)
 - [x] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 - [x] [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
+- [x] [What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY)
+- [ ] [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
+- [ ] [Securing your workflows](https://lab.github.com/githubtraining/securing-your-workflows)
 ##### Utils
 * [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
