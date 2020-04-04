@@ -11,10 +11,7 @@
 - [x] [What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY)
 - [x] [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 - [x] [Securing your workflows](https://lab.github.com/githubtraining/securing-your-workflows)
-- [x] [Git Basics Episode 1 | What is Version Control?](https://git-scm.com/video/what-is-version-control)
-- [x] [Git Basics Episode 2 | What is Git?](https://git-scm.com/video/what-is-git)
-- [ ] [Git Basics Episode 3 | Get Going with Git](https://git-scm.com/video/get-going)
-- [ ] [Git Basics Episode 4 | Quick Wins with Git](https://git-scm.com/video/quick-wins)
+- [ ] [Git Basics • Training](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
 - [ ] [Git Book](https://git-scm.com/book/en/v2)
 ##### Utils
 * [Git Reference](https://git-scm.com/docs)
