@@ -23,6 +23,7 @@
 * [GitHub](https://github.com)
 * [GitHub Help](https://help.github.com/en)
 * [YouTube GitHub Training & Guides](https://www.youtube.com/githubguides)
+* [Vimeo GitHub](https://vimeo.com/github)
 * [GitHub Guides](https://guides.github.com)
 * [GitHub Learning Lab](https://lab.github.com)
 * [The GitHub Blog](https://github.blog)
