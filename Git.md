@@ -11,10 +11,12 @@
 - [x] [What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY)
 - [x] [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 - [x] [Securing your workflows](https://lab.github.com/githubtraining/securing-your-workflows)
-- [ ] [Git Basics • Training](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
+- [x] [Git Basics • Training](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
+- [ ] [Git Tutorial](https://git-scm.com/docs/gittutorial)
 - [ ] [Git Book](https://git-scm.com/book/en/v2)
 ##### Utils
 * [Git Reference](https://git-scm.com/docs)
+* [Git Glossary](https://git-scm.com/docs/gitglossary)
 * [GitHub Cheat Sheet](https://github.github.com/training-kit/)
 * [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
 * [GitHub](https://github.com)
