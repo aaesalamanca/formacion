@@ -18,3 +18,6 @@ Finalmente, este fichero `README.md` sirve como enlace al resto de temáticas, q
 * [Kotlin](Kotlin.md)
 * Programación
 * [Utils](Utils.md)
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
