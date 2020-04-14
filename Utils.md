@@ -8,7 +8,4 @@
 * [Udacity](https://www.udacity.com)
 * [Udacity Google](https://www.udacity.com/google)
 * [Stack Overflow](https://stackoverflow.com)
-* [Make a README](https://www.makeareadme.com/)
-* [Awesome README](https://github.com/matiassingers/awesome-readme)
-* [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
