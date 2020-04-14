@@ -31,6 +31,6 @@
 * [Open Source Guides](https://opensource.guide)
 * [gitignore.io](https://www.gitignore.io)
 * [github/gitignore](https://github.com/github/gitignore)
-* [Make a README](https://www.makeareadme.com/)
+* [Make a README](https://www.makeareadme.com)
 * [Awesome README](https://github.com/matiassingers/awesome-readme)
-* [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+* [Keep a Changelog](https://keepachangelog.com/en/1.0.0)
