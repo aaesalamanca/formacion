@@ -1,6 +1,7 @@
 ### [Firebase](https://firebase.google.com)
 - [ ] [Firebase Android Codelab - Build Friendly Chat](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
 - [ ] [Udacity Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+- [ ] [Cloud Firestore Android Codelab](https://codelabs.developers.google.com/codelabs/firestore-android/#0)
 #### Utils
 * [Firebase Console](https://console.firebase.google.com)
 * [Firebase Guides](https://firebase.google.com/docs/guides)
